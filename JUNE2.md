@@ -7,4 +7,5 @@ For the second assignment we had to make a artistic animation. I aimed for a sor
 
 
 I really liked the glitch like effect when clicking on the mouse.
+
 ![559532585fb03edd30fb1ce443b8081d](https://user-images.githubusercontent.com/66205383/83506284-027f2680-a4d8-11ea-8a98-5860e0de7423.gif)
