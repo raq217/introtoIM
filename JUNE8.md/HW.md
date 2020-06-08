@@ -8,4 +8,6 @@ Here are the results:
 
 The process (fast-forwarded);
 
+![june8gif](https://user-images.githubusercontent.com/66205383/84011133-bd02a380-a986-11ea-8392-52d5e3d0f3ce.gif)
+
 
