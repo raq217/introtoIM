@@ -21,6 +21,12 @@ void draw() {
   
   
   float pointillize = map(mouseX, 0, width, smallPoint, largePoint);
+  
+//this outlines that the dots should randomly align themselves to draw the photo
+//the reason why I did this was I tried doing it with chosen x/y values but the process
+//of drawing the photo was unsatisfying. Making it random makes it interesting and 
+//intrigues the audience into watching the wole process.
+
   int x = int(random(img.width));
   int y = int(random(img.height));
   
