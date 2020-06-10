@@ -17,6 +17,9 @@ There were a lot of challenges in making this game as I have no prior knowledge 
 3) Making the ending board pop up to showcase the points and indicate that the game was lost/reset was not easy. At first it just kept on giving me a blank board without text. Again this was a simple mistake because I forgot to separate it in another void which was named void checkdead.
 
 
+When reflectin on this, I am really proud of the patience I had in recreating this game because even as simple as it looks there was moments of frustration. I shall now always stick by these words: "Always copy and paste the variables instead of always typing them out".
+
+
 
 
 
