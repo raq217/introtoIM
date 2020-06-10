@@ -21,10 +21,11 @@ void checkdead()
     {
 //This is the message that pops up when the game is either reset or the player has lost. It will
 //show the total points that the player has earned.
-      fill(0,100,0);
+      fill(0,50,0);
       rect(125,125,160,100);
-      fill(0,100,0);
-      text("GAME OVER",200,150);
+      fill(255);
+//this is for when you eat yourself aka when the snake collides with itself
+      text("You ate yourself!",200,150);
       text("Score:  "+str(snakesize-1)+" units long",200,175);
       text("To restart, press Shift.",200,200);
       stopgame=true;
