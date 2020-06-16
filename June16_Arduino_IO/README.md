@@ -10,9 +10,14 @@ Using the push button to switch up which LED would light up:
 ![led1 2](https://user-images.githubusercontent.com/66205383/84750454-57d53080-afcc-11ea-8936-87597ad95165.gif)
 
 
-When the voltage is low on the potentiometer (blue LED):
+When the voltage is high on the potentiometer (blue LED):
 
 ![LED2](https://user-images.githubusercontent.com/66205383/84750309-29efec00-afcc-11ea-9816-6925aae3f8d9.gif)
+
+
+When the voltage is low on the potentiometer (blue LED blinks faster):
+
+
 
 
 
