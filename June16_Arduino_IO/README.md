@@ -5,9 +5,9 @@ Here is the complete circuit (holding switch to light up both LEDs):
 <img width="552" alt="Screen Shot 2020-06-16 at 12 15 32 PM" src="https://user-images.githubusercontent.com/66205383/84749498-1abc6e80-afcb-11ea-893b-a9e4e45f868c.png">
 
 
-Using the push button to switch up which LED would light up:
+Using the push button to switch up which LED would light up. You can control the speed at which it changes according to how many times you press it:
 
-![led1 2](https://user-images.githubusercontent.com/66205383/84750454-57d53080-afcc-11ea-8936-87597ad95165.gif)
+![LED1 3](https://user-images.githubusercontent.com/66205383/84751119-3d4f8700-afcd-11ea-8a91-7f41223a1b56.gif)
 
 
 When the voltage is high on the potentiometer (blue LED):
@@ -15,7 +15,7 @@ When the voltage is high on the potentiometer (blue LED):
 ![LED2](https://user-images.githubusercontent.com/66205383/84750309-29efec00-afcc-11ea-9816-6925aae3f8d9.gif)
 
 
-When the voltage is low on the potentiometer (blue LED blinks faster):
+When the voltage is low on the potentiometer (blue LED blinks slower):
 
 
 ![led3](https://user-images.githubusercontent.com/66205383/84750876-ec3f9300-afcc-11ea-88c3-27e012ccb5b4.gif)
