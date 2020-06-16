@@ -5,3 +5,6 @@ Here is the complete circuit (holding switch to light up both LEDs):
 <img width="552" alt="Screen Shot 2020-06-16 at 12 15 32 PM" src="https://user-images.githubusercontent.com/66205383/84749498-1abc6e80-afcb-11ea-893b-a9e4e45f868c.png">
 
 
+Using the push button to switch up which LED would light up:
+
+
