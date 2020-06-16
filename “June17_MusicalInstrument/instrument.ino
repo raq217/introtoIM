@@ -7,7 +7,6 @@ long duration;
 long distance;
 int sensorReading;
 int thisPitch;
-int force;
 int sound;
 
 void setup() {
@@ -34,7 +33,7 @@ void loop() {
 
  
     int sound = map(distance, 0, 50, 0, 6);  //map distance to the array of notes
-    tone(12, notes[sound]);  e
+    tone(12, notes[sound]);  
   // read the sensor:
   int sensorReading = analogRead(A0);
   // print the sensor reading so you know its range
