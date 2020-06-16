@@ -8,3 +8,9 @@ Here is the complete circuit (holding switch to light up both LEDs):
 Using the push button to switch up which LED would light up:
 
 ![LED1](https://user-images.githubusercontent.com/66205383/84749882-a1714b80-afcb-11ea-9e54-048eeeb1d981.gif)
+
+
+When the voltage is low on the potentiometer (blue LED):
+
+
+
