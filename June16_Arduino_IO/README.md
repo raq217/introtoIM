@@ -18,6 +18,9 @@ When the voltage is high on the potentiometer (blue LED):
 When the voltage is low on the potentiometer (blue LED blinks faster):
 
 
+![led3](https://user-images.githubusercontent.com/66205383/84750876-ec3f9300-afcc-11ea-88c3-27e012ccb5b4.gif)
+
+
 
 
 
