@@ -12,5 +12,7 @@ Using the push button to switch up which LED would light up:
 
 When the voltage is low on the potentiometer (blue LED):
 
+![LED2](https://user-images.githubusercontent.com/66205383/84750309-29efec00-afcc-11ea-9816-6925aae3f8d9.gif)
+
 
 
