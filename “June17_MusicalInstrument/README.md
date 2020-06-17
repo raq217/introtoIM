@@ -10,3 +10,12 @@ Here are some photos:
 <img width="659" alt="Screen Shot 2020-06-17 at 12 31 46 PM" src="https://user-images.githubusercontent.com/66205383/84875168-a818c500-b096-11ea-9cb1-6cbe08619bee.png">
 
 
+Here is a youtube video testing out the ultrasonic sensor:
+
+https://www.youtube.com/watch?v=fgOZNpLlGEc
+
+
+Here is a youtube video testing out the photoresistor:
+
+https://www.youtube.com/watch?v=9Hh-0d9PDOs
+
