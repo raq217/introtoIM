@@ -4,9 +4,12 @@ For this assignment we had to incorporate the use of arduino and processing to m
 
 https://www.youtube.com/watch?v=ZejQOX69K5M
 
-Here is a short video of the game. The bird is moving up and down according to my hand being in front of the sensor. As I would place my hand in front of the sensor the bird will move down, when I take away my hand the bird will move back up.
+Here is a gif of the. The bird is moving up and down according to my hand being in front of the sensor. As I would place my hand in front of the sensor the bird will move down, when I take away my hand the bird will move back up.
 
 ![flappy game](https://user-images.githubusercontent.com/66205383/85220456-98fa8580-b3bc-11ea-9ee9-19e91895a514.gif)
+
+This is an actual video showcasing my contact with the sensor and the response on the game.
+https://www.youtube.com/watch?v=EmNcV3e1CMU
 
 
 Here is a photo of the very simple circuit.
