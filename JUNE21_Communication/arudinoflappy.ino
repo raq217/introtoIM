@@ -1,5 +1,5 @@
 //Rashid Al Qubaisi
-//Flappy Bird Remakerashid167
+//Flappy Bird
 
 
 //Pins that I will be using with the ultrasonic sensor
