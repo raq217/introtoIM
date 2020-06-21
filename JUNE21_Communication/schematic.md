@@ -1,0 +1,2 @@
+Attached is the schematic:
+
