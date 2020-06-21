@@ -9,4 +9,10 @@ Here is a short video of the game. The bird is moving up and down according to m
 ![flappy game](https://user-images.githubusercontent.com/66205383/85220456-98fa8580-b3bc-11ea-9ee9-19e91895a514.gif)
 
 
+Here is a photo of the very simple circuit.
+
+
+<img width="555" alt="Screen Shot 2020-06-21 at 12 49 18 PM" src="https://user-images.githubusercontent.com/66205383/85220578-c09e1d80-b3bd-11ea-87a1-92655ed7c5f0.png">
+
+
 
