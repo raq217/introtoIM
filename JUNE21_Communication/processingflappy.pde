@@ -53,6 +53,8 @@ void draw(){
   p2.pipe();
   p3.pipe();
  
+ //variables of the bird, what size it is which is very important because we have to make sure that the pipes are not too wide enough or
+ //narrow enough for us.
   fill(birdColor);
   ellipse(birdx, birdy, 44,44);
  // birdy += gravity;
