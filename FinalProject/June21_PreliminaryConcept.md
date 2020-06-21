@@ -15,4 +15,4 @@ Used to make the code/script for the actual game, including the aesthetics.
 Challenges:
 Making sure the gravity of the ball is set correctly along with the variables that depend on it.
 
-Alternative project: Develop and a new version of the previous game with proper visuals like a plane and moving objects such as clouds etc.
+Alternative project: Develop and a new version of the previous game with proper visuals like a plane and moving objects such as clouds etc.This will be using an ultrasonic sensor.
