@@ -4,12 +4,14 @@ For my final project I would like to remake the game "Arkanoid" which involves t
 
 Arudino:
 Used to generate the code to make sure that the potentiometer on the arduino board will respond to the code on processing.
+
 Challenges:
 One of the challenges I see is adjusting the potentiometer to the right sensitivity so that it is not too sensitive to control the moving platform for the ball to bounce on.
 
 
 Processing:
-1) Used to make the code/script for the actual game, including the aesthetics.
+Used to make the code/script for the actual game, including the aesthetics.
+
 Challenges:
 Making sure the gravity of the ball is set correctly along with the variables that depend on it.
 
