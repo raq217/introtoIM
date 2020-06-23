@@ -79,5 +79,6 @@
    text("100",500,500);
    textSize(25);
    
-   //the issue here is that the score does not add up so instead of adding 100 it just places another 100 ontop of it. It should be adding +100 onto the previous score.
+   //the issue here is that the score does not add up so instead of adding 100 it just places another 100 ontop of it. 
+   //It should be adding +100 onto the previous score.
   
