@@ -43,7 +43,7 @@ float rect11 = rectY + 60;
 float rectt= 100;
 float rrect = 20;
 float mmclick;
-float torta;
+float tort;
 
 PImage img;
 
