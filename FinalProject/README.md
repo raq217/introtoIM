@@ -4,6 +4,9 @@ FINAL ASSIGNMENT BRIEF:
 For my final project I wanted to make another game using the potentiometer as I have already used the ultrasonic sensor I wanted to try something new. Similar to my midterm project, I wanted to recreate the pinball brick breaker game that is most common with Blackberries. Also, I thought that this game would perfectly fit with the space theme that I wanted to go for. Before talking about the challenges I faced here are some short videos of the final creation:
 
 
+YOUTUBE VIDEO: https://www.youtube.com/watch?v=XKDupO2yiMc
+
+
 Here we are in the fist level of the game in which the platform is as big as it can get. The ball is a little slower so that it makes it easier for the ueser to adjust to the game.
 
 <img width="631" alt="Screen Shot 2020-06-24 at 12 55 41 PM" src="https://user-images.githubusercontent.com/66205383/85525328-0ce59980-b61a-11ea-9fbf-c261eaf51310.png">
