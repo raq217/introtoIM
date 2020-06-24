@@ -106,6 +106,9 @@ void draw() {
   fill(200);
   rect(brightness, 340, rectt, rrect, 18, 18, 18, 18);
 
+
+//This is the speed of the ball in relative to the size of the moving platform.
+
   circleX = circleX + speedX;
   circleY = circleY + speedY;
   if (circleX > width) {
