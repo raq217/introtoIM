@@ -6,7 +6,7 @@ For my final project I wanted to make another game using the potentiometer as I 
 
 Here we are in the fist level of the game in which the platform is as big as it can get. The ball is a little slower so that it makes it easier for the ueser to adjust to the game.
 
-![pin1](https://user-images.githubusercontent.com/66205383/85422100-3fde4d80-b586-11ea-87ea-7d9d6a906784.gif)
+<img width="631" alt="Screen Shot 2020-06-24 at 12 55 41 PM" src="https://user-images.githubusercontent.com/66205383/85525328-0ce59980-b61a-11ea-9fbf-c261eaf51310.png">
 
 
 
