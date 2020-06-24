@@ -264,6 +264,7 @@ void draw() {
   if ((rectp == -500)&&(rectv == -500)&&(rect2 == -500)&&(rect3 == -500) &&(recto == -500)&&(rectm == -500)&&(rect4 == -500)&&(rect5 == -500)) {
   }
 
+//When you click it makes the game go white for a few milliseconds so indicate the game restart.
   mmclick = brightness+100;} 
 
 void serialEvent (Serial port){
